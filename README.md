@@ -1,4 +1,4 @@
-mermaid
+```mermaid
 graph LR
     A[AppSheetを開く] --> B{事業所選択};
     B -- 当日1回目のみ --> C[QRを読み取る];
